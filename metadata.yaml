@@ -1,11 +1,16 @@
 _repo: Telling-Fortunes-By-Tea-Leaves--How-to-Read-Your-Fate-in-a-Teacup_6964
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kent, Cicely
     gutenberg_agent_id: '2279'
     url: http://www.gutenberg.org/2009/agents/2279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6964#Telling-Fortunes-By-Tea-Leaves--How-to-Read-Your-Fate-in-a-Teacup
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
